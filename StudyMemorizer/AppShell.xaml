@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="StudyMemorizer.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:pages="clr-namespace:StudyMemorizer.Pages"
+    Shell.FlyoutBehavior="Flyout"
+    Title="StudyMemorizer">
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate pages:MainPage}"
+        Route="MainPage" />
+    <ShellContent
+        Title="Test"
+        ContentTemplate="{DataTemplate pages:TestPage}"
+        Route="TestPage" />
+    <ShellContent
+        Title="View dataset"
+        ContentTemplate="{DataTemplate pages:ViewDatasetPage}"
+        Route="ViewDatasetPage" />
+    <ShellContent
+        Title="Create/Modify dataset"
+        ContentTemplate="{DataTemplate pages:CreateModifyPage}"
+        Route="CreateModifyPage" />
+    <ShellContent
+        Title="Mass Export"
+        ContentTemplate="{DataTemplate pages:MassExportPage}"
+        Route="MassExportPage" />
+    <ShellContent
+        Title="Mass Import"
+        ContentTemplate="{DataTemplate pages:MassImportPage}"
+        Route="MassImportPage" />
+    <ShellContent
+        Title="Delete Datasets"
+        ContentTemplate="{DataTemplate pages:DeleteDatasetsPage}"
+        Route="DeleteDatasetsPage" />
+
+</Shell>

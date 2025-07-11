@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\123lg\\OneDrive\\Desktop\\StudyMemorizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F78997E3-1B76-4490-BCD8-898EE0AF6240}|StudyMemorizer\\StudyMemorizer.csproj|c:\\users\\123lg\\onedrive\\desktop\\studymemorizer\\studymemorizer\\pages\\testingpages\\queuecardviewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78997E3-1B76-4490-BCD8-898EE0AF6240}|StudyMemorizer\\StudyMemorizer.csproj|solutionrelative:studymemorizer\\pages\\testingpages\\queuecardviewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78997E3-1B76-4490-BCD8-898EE0AF6240}|StudyMemorizer\\StudyMemorizer.csproj|c:\\users\\123lg\\onedrive\\desktop\\studymemorizer\\studymemorizer\\pages\\massimportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78997E3-1B76-4490-BCD8-898EE0AF6240}|StudyMemorizer\\StudyMemorizer.csproj|solutionrelative:studymemorizer\\pages\\massimportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78997E3-1B76-4490-BCD8-898EE0AF6240}|StudyMemorizer\\StudyMemorizer.csproj|c:\\users\\123lg\\onedrive\\desktop\\studymemorizer\\studymemorizer\\classes\\datahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78997E3-1B76-4490-BCD8-898EE0AF6240}|StudyMemorizer\\StudyMemorizer.csproj|solutionrelative:studymemorizer\\classes\\datahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78997E3-1B76-4490-BCD8-898EE0AF6240}|StudyMemorizer\\StudyMemorizer.csproj|c:\\users\\123lg\\onedrive\\desktop\\studymemorizer\\studymemorizer\\pages\\deletedatasetspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78997E3-1B76-4490-BCD8-898EE0AF6240}|StudyMemorizer\\StudyMemorizer.csproj|solutionrelative:studymemorizer\\pages\\deletedatasetspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78997E3-1B76-4490-BCD8-898EE0AF6240}|StudyMemorizer\\StudyMemorizer.csproj|c:\\users\\123lg\\onedrive\\desktop\\studymemorizer\\studymemorizer\\classes\\dataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78997E3-1B76-4490-BCD8-898EE0AF6240}|StudyMemorizer\\StudyMemorizer.csproj|solutionrelative:studymemorizer\\classes\\dataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78997E3-1B76-4490-BCD8-898EE0AF6240}|StudyMemorizer\\StudyMemorizer.csproj|c:\\users\\123lg\\onedrive\\desktop\\studymemorizer\\studymemorizer\\pages\\createmodifypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78997E3-1B76-4490-BCD8-898EE0AF6240}|StudyMemorizer\\StudyMemorizer.csproj|solutionrelative:studymemorizer\\pages\\createmodifypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78997E3-1B76-4490-BCD8-898EE0AF6240}|StudyMemorizer\\StudyMemorizer.csproj|c:\\users\\123lg\\onedrive\\desktop\\studymemorizer\\studymemorizer\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F78997E3-1B76-4490-BCD8-898EE0AF6240}|StudyMemorizer\\StudyMemorizer.csproj|solutionrelative:studymemorizer\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteDatasetsPage.cs",
+              "DocumentMoniker": "C:\\Users\\123lg\\OneDrive\\Desktop\\StudyMemorizer\\StudyMemorizer\\Pages\\DeleteDatasetsPage.cs",
+              "RelativeDocumentMoniker": "StudyMemorizer\\Pages\\DeleteDatasetsPage.cs",
+              "ToolTip": "C:\\Users\\123lg\\OneDrive\\Desktop\\StudyMemorizer\\StudyMemorizer\\Pages\\DeleteDatasetsPage.cs",
+              "RelativeToolTip": "StudyMemorizer\\Pages\\DeleteDatasetsPage.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T23:23:17.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\123lg\\OneDrive\\Desktop\\StudyMemorizer\\StudyMemorizer\\AppShell.xaml",
+              "RelativeDocumentMoniker": "StudyMemorizer\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\123lg\\OneDrive\\Desktop\\StudyMemorizer\\StudyMemorizer\\AppShell.xaml",
+              "RelativeToolTip": "StudyMemorizer\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T23:03:20.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MassImportPage.cs",
+              "DocumentMoniker": "C:\\Users\\123lg\\OneDrive\\Desktop\\StudyMemorizer\\StudyMemorizer\\Pages\\MassImportPage.cs",
+              "RelativeDocumentMoniker": "StudyMemorizer\\Pages\\MassImportPage.cs",
+              "ToolTip": "C:\\Users\\123lg\\OneDrive\\Desktop\\StudyMemorizer\\StudyMemorizer\\Pages\\MassImportPage.cs",
+              "RelativeToolTip": "StudyMemorizer\\Pages\\MassImportPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:22:31.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataHandler.cs",
+              "DocumentMoniker": "C:\\Users\\123lg\\OneDrive\\Desktop\\StudyMemorizer\\StudyMemorizer\\Classes\\DataHandler.cs",
+              "RelativeDocumentMoniker": "StudyMemorizer\\Classes\\DataHandler.cs",
+              "ToolTip": "C:\\Users\\123lg\\OneDrive\\Desktop\\StudyMemorizer\\StudyMemorizer\\Classes\\DataHandler.cs",
+              "RelativeToolTip": "StudyMemorizer\\Classes\\DataHandler.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:37:17.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dataset.cs",
+              "DocumentMoniker": "C:\\Users\\123lg\\OneDrive\\Desktop\\StudyMemorizer\\StudyMemorizer\\Classes\\Dataset.cs",
+              "RelativeDocumentMoniker": "StudyMemorizer\\Classes\\Dataset.cs",
+              "ToolTip": "C:\\Users\\123lg\\OneDrive\\Desktop\\StudyMemorizer\\StudyMemorizer\\Classes\\Dataset.cs",
+              "RelativeToolTip": "StudyMemorizer\\Classes\\Dataset.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAA2wHkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:00:19.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateModifyPage.cs",
+              "DocumentMoniker": "C:\\Users\\123lg\\OneDrive\\Desktop\\StudyMemorizer\\StudyMemorizer\\Pages\\CreateModifyPage.cs",
+              "RelativeDocumentMoniker": "StudyMemorizer\\Pages\\CreateModifyPage.cs",
+              "ToolTip": "C:\\Users\\123lg\\OneDrive\\Desktop\\StudyMemorizer\\StudyMemorizer\\Pages\\CreateModifyPage.cs",
+              "RelativeToolTip": "StudyMemorizer\\Pages\\CreateModifyPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:40:25.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueueCardViewPage.cs",
+              "DocumentMoniker": "C:\\Users\\123lg\\OneDrive\\Desktop\\StudyMemorizer\\StudyMemorizer\\Pages\\TestingPages\\QueueCardViewPage.cs",
+              "RelativeDocumentMoniker": "StudyMemorizer\\Pages\\TestingPages\\QueueCardViewPage.cs",
+              "ToolTip": "C:\\Users\\123lg\\OneDrive\\Desktop\\StudyMemorizer\\StudyMemorizer\\Pages\\TestingPages\\QueueCardViewPage.cs",
+              "RelativeToolTip": "StudyMemorizer\\Pages\\TestingPages\\QueueCardViewPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T06:35:16.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
